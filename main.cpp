@@ -13,6 +13,14 @@ void mergesort(){
    
 }
 
+void insertionsort(){
+   
+}
+
+
+
+timepass
+
 int main()
 {
    return 0;
